@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Yasmin",
+    "Age": "7",
+    "Animal": "Gata",
+    "Color": "Negro",
+    "Sickness": "Vomito"
+  },
+  {
+    "Name": "Spyke",
+    "Age": "9",
+    "Animal": "Perro",
+    "Color": "Blanco",
+    "Sickness": "Diarrea"
+  }
+]
